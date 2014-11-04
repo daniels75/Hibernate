@@ -1,1 +1,3 @@
-Maven Clean project - should be used as an example for other projects (boostrap project)
+Hibernate + Spring + JPA example with tests
+
+Run a UserDetailsServiceImplTest to test it
